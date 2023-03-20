@@ -1,3 +1,5 @@
 go 1.20
 
-use ./Go-WebServer
+use ./web-server
+use ./web-server/srv-controllers
+use ./web-server/srv-models
